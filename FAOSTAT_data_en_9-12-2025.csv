@@ -1,180 +1,180 @@
-﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
-"BE","Bioenergy","008","Albania","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","5887.5952","X","Figure from external organization"
-"BE","Bioenergy","032","Argentina","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","21712","X","Figure from external organization"
-"BE","Bioenergy","036","Australia","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","38.3824","I","Value 
+﻿Domain Code,Domain,Area Code (M49),Country,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,region
+BE,Bioenergy,008,Albania,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,5887.5952,X,Figure from external organization,Europe
+BE,Bioenergy,032,Argentina,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,21712,X,Figure from external organization,South America
+BE,Bioenergy,036,Australia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,38.3824,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","040","Austria","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","348.3488","X","Figure from external organization"
-"BE","Bioenergy","112","Belarus","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","588.8","I","Value 
+agency",Oceania
+BE,Bioenergy,040,Austria,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,348.3488,X,Figure from external organization,Europe
+BE,Bioenergy,112,Belarus,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,588.8,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","056","Belgium","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","3.68","X","Figure from external organization"
-"BE","Bioenergy","060","Bermuda","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","7.36","X","Figure from external organization"
-"BE","Bioenergy","076","Brazil","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","240323.6144","X","Figure from external organization"
-"BE","Bioenergy","100","Bulgaria","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","6879.024","I","Value 
+agency",Europe
+BE,Bioenergy,056,Belgium,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,3.68,X,Figure from external organization,Europe
+BE,Bioenergy,060,Bermuda,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,7.36,X,Figure from external organization,Noth America
+BE,Bioenergy,076,Brazil,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,240323.6144,X,Figure from external organization,South America
+BE,Bioenergy,100,Bulgaria,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,6879.024,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","124","Canada","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","33141.0128","I","Value 
+agency",Europe
+BE,Bioenergy,124,Canada,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,33141.0128,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","159","China","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","323840","E","Estimated value"
-"BE","Bioenergy","156","China, mainland","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","323840","I","Value 
+agency",Noth America
+BE,Bioenergy,159,China,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,323840,E,Estimated value,East Asia
+BE,Bioenergy,156,"China, mainland",5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,323840,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","170","Colombia","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","25251.056","I","Value 
+agency",East Asia
+BE,Bioenergy,170,Colombia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,25251.056,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","191","Croatia","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","876.9808","I","Value 
+agency",South America
+BE,Bioenergy,191,Croatia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,876.9808,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","196","Cyprus","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","1001.6224","I","Value 
+agency",Europe
+BE,Bioenergy,196,Cyprus,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1001.6224,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","203","Czechia","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","11592","I","Value 
+agency",Midde East
+BE,Bioenergy,203,Czechia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,11592,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","208","Denmark","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","6315.5792","I","Value 
+agency",Europe
+BE,Bioenergy,208,Denmark,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,6315.5792,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","214","Dominican Republic","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","","O","Missing value"
-"BE","Bioenergy","233","Estonia","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","910.5424","I","Value 
+agency",Europe
+BE,Bioenergy,214,Dominican Republic,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,,O,Missing value,Caribbean
+BE,Bioenergy,233,Estonia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,910.5424,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","246","Finland","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","1286.8224","X","Figure from external organization"
-"BE","Bioenergy","250","France","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","102673.5824","I","Value 
+agency",Europe
+BE,Bioenergy,246,Finland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1286.8224,X,Figure from external organization,Europe
+BE,Bioenergy,250,France,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,102673.5824,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","268","Georgia","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","0.4416","I","Value 
+agency",Europe
+BE,Bioenergy,268,Georgia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0.4416,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","276","Germany","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","96305.6","I","Value 
+agency",Europe
+BE,Bioenergy,276,Germany,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,96305.6,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","300","Greece","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","6207.424","I","Value 
+agency",Europe
+BE,Bioenergy,300,Greece,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,6207.424,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","348","Hungary","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","8795.2","I","Value 
+agency",Europe
+BE,Bioenergy,348,Hungary,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,8795.2,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","352","Iceland","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","155.9952","I","Value 
+agency",Europe
+BE,Bioenergy,352,Iceland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,155.9952,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","356","India","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","1324.8","I","Value 
+agency",Europe
+BE,Bioenergy,356,India,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1324.8,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","360","Indonesia","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","339014.3328","I","Value 
+agency",South Asia
+BE,Bioenergy,360,Indonesia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,339014.3328,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","372","Ireland","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","8290.6352","I","Value 
+agency",Southeast Asia
+BE,Bioenergy,372,Ireland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,8290.6352,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","380","Italy","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","56386.2848","I","Value 
+agency",Europe
+BE,Bioenergy,380,Italy,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,56386.2848,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","392","Japan","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","345.4416","I","Value 
+agency",Europe
+BE,Bioenergy,392,Japan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,345.4416,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","428","Latvia","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","95.4592","X","Figure from external organization"
-"BE","Bioenergy","440","Lithuania","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","4165.76","I","Value 
+agency",East Asia
+BE,Bioenergy,428,Latvia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,95.4592,X,Figure from external organization,Europe
+BE,Bioenergy,440,Lithuania,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,4165.76,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","442","Luxembourg","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","4476.168","I","Value 
+agency",Europe
+BE,Bioenergy,442,Luxembourg,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,4476.168,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","458","Malaysia","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","34624.8256","I","Value 
+agency",Europe
+BE,Bioenergy,458,Malaysia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,34624.8256,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","470","Malta","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","463.2752","I","Value 
+agency",Southeast Asia
+BE,Bioenergy,470,Malta,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,463.2752,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","528","Netherlands (Kingdom of the)","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","14407.1632","I","Value 
+agency",Europe
+BE,Bioenergy,528,Netherlands (Kingdom of the),5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,14407.1632,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","554","New Zealand","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","6.2928","I","Value 
+agency",Europe
+BE,Bioenergy,554,New Zealand,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,6.2928,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","807","North Macedonia","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","8.648","I","Value 
+agency",Oceania
+BE,Bioenergy,807,North Macedonia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,8.648,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","578","Norway","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","12345.9952","I","Value 
+agency",Europe
+BE,Bioenergy,578,Norway,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,12345.9952,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","604","Peru","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","11982.08","I","Value 
+agency",Europe
+BE,Bioenergy,604,Peru,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,11982.08,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","608","Philippines","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","7600.304","I","Value 
+agency",South America
+BE,Bioenergy,608,Philippines,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,7600.304,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","616","Poland","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","40454.1664","I","Value 
+agency",Southeast Asia
+BE,Bioenergy,616,Poland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,40454.1664,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","620","Portugal","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","106.6832","X","Figure from external organization"
-"BE","Bioenergy","410","Republic of Korea","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","25631.5312","I","Value 
+agency",Europe
+BE,Bioenergy,620,Portugal,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,106.6832,X,Figure from external organization,Europe
+BE,Bioenergy,410,Republic of Korea,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,25631.5312,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","642","Romania","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","17322.7168","I","Value 
+agency",Europe
+BE,Bioenergy,642,Romania,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,17322.7168,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","703","Slovakia","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","5520","I","Value 
+agency",Europe
+BE,Bioenergy,703,Slovakia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,5520,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","705","Slovenia","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","2999.752","I","Value 
+agency",Europe
+BE,Bioenergy,705,Slovenia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,2999.752,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","724","Spain","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","51531.1136","I","Value 
+agency",Europe
+BE,Bioenergy,724,Spain,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,51531.1136,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","752","Sweden","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","1545.6","X","Figure from external organization"
-"BE","Bioenergy","756","Switzerland","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","0.6256","X","Figure from external organization"
-"BE","Bioenergy","764","Thailand","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","62560","X","Figure from external organization"
-"BE","Bioenergy","792","Türkiye","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","3749.1104","I","Value 
+agency",Europe
+BE,Bioenergy,752,Sweden,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1545.6,X,Figure from external organization,Europe
+BE,Bioenergy,756,Switzerland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0.6256,X,Figure from external organization,Europe
+BE,Bioenergy,764,Thailand,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,62560,X,Figure from external organization,Southeast Asia
+BE,Bioenergy,792,Türkiye,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,3749.1104,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","826","United Kingdom of Great Britain and Northern Ireland","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","58585.6","I","Value 
+agency",Midde East
+BE,Bioenergy,826,United Kingdom of Great Britain and Northern Ireland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,58585.6,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","840","United States of America","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","345636.3088","I","Value 
+agency",Europe
+BE,Bioenergy,840,United States of America,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,345636.3088,I,"Value 
 imputed by a
 receiving 
-agency"
-"BE","Bioenergy","858","Uruguay","5851","Energy consumption","6521","Biodiesel","2023","2023","TJ","3.68","X","Figure from external organization"
+agency",Noth America
+BE,Bioenergy,858,Uruguay,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,3.68,X,Figure from external organization,South America
