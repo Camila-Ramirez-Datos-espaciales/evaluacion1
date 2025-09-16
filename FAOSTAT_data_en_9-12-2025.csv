@@ -1,23 +1,23 @@
 ﻿Domain Code,Domain,Area Code (M49),Country,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description,region
-BE,Bioenergy,008,Albania,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,5887.5952,X,Figure from external organization,Europe
+BE,Bioenergy,008,Albania,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,5888,X,Figure from external organization,Europe
 BE,Bioenergy,032,Argentina,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,21712,X,Figure from external organization,South America
-BE,Bioenergy,036,Australia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,38.3824,I,"Value 
+BE,Bioenergy,036,Australia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,38,I,"Value 
 imputed by a
 receiving 
 agency",Oceania
-BE,Bioenergy,040,Austria,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,348.3488,X,Figure from external organization,Europe
-BE,Bioenergy,112,Belarus,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,588.8,I,"Value 
+BE,Bioenergy,040,Austria,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,348,X,Figure from external organization,Europe
+BE,Bioenergy,112,Belarus,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,589,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,056,Belgium,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,3.68,X,Figure from external organization,Europe
-BE,Bioenergy,060,Bermuda,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,7.36,X,Figure from external organization,Noth America
-BE,Bioenergy,076,Brazil,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,240323.6144,X,Figure from external organization,South America
-BE,Bioenergy,100,Bulgaria,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,6879.024,I,"Value 
+BE,Bioenergy,056,Belgium,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,4,X,Figure from external organization,Europe
+BE,Bioenergy,060,Bermuda,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,7,X,Figure from external organization,Noth America
+BE,Bioenergy,076,Brazil,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,240324,X,Figure from external organization,South America
+BE,Bioenergy,100,Bulgaria,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,6879,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,124,Canada,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,33141.0128,I,"Value 
+BE,Bioenergy,124,Canada,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,33141,I,"Value 
 imputed by a
 receiving 
 agency",Noth America
@@ -26,15 +26,15 @@ BE,Bioenergy,156,"China, mainland",5851,Energy consumption,6521,Biodiesel,2023,2
 imputed by a
 receiving 
 agency",East Asia
-BE,Bioenergy,170,Colombia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,25251.056,I,"Value 
+BE,Bioenergy,170,Colombia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,25251,I,"Value 
 imputed by a
 receiving 
 agency",South America
-BE,Bioenergy,191,Croatia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,876.9808,I,"Value 
+BE,Bioenergy,191,Croatia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,877,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,196,Cyprus,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1001.6224,I,"Value 
+BE,Bioenergy,196,Cyprus,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1002,I,"Value 
 imputed by a
 receiving 
 agency",Midde East
@@ -42,111 +42,111 @@ BE,Bioenergy,203,Czechia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,115
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,208,Denmark,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,6315.5792,I,"Value 
+BE,Bioenergy,208,Denmark,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,6316,I,"Value 
 imputed by a
 receiving 
 agency",Europe
 BE,Bioenergy,214,Dominican Republic,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,,O,Missing value,Caribbean
-BE,Bioenergy,233,Estonia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,910.5424,I,"Value 
+BE,Bioenergy,233,Estonia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,911,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,246,Finland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1286.8224,X,Figure from external organization,Europe
-BE,Bioenergy,250,France,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,102673.5824,I,"Value 
+BE,Bioenergy,246,Finland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1287,X,Figure from external organization,Europe
+BE,Bioenergy,250,France,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,102674,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,268,Georgia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0.4416,I,"Value 
+BE,Bioenergy,268,Georgia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,276,Germany,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,96305.6,I,"Value 
+BE,Bioenergy,276,Germany,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,96306,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,300,Greece,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,6207.424,I,"Value 
+BE,Bioenergy,300,Greece,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,6207,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,348,Hungary,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,8795.2,I,"Value 
+BE,Bioenergy,348,Hungary,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,8795,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,352,Iceland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,155.9952,I,"Value 
+BE,Bioenergy,352,Iceland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,156,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,356,India,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1324.8,I,"Value 
+BE,Bioenergy,356,India,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1325,I,"Value 
 imputed by a
 receiving 
 agency",South Asia
-BE,Bioenergy,360,Indonesia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,339014.3328,I,"Value 
+BE,Bioenergy,360,Indonesia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,339014,I,"Value 
 imputed by a
 receiving 
 agency",Southeast Asia
-BE,Bioenergy,372,Ireland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,8290.6352,I,"Value 
+BE,Bioenergy,372,Ireland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,8291,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,380,Italy,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,56386.2848,I,"Value 
+BE,Bioenergy,380,Italy,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,56386,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,392,Japan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,345.4416,I,"Value 
+BE,Bioenergy,392,Japan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,345,I,"Value 
 imputed by a
 receiving 
 agency",East Asia
-BE,Bioenergy,428,Latvia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,95.4592,X,Figure from external organization,Europe
-BE,Bioenergy,440,Lithuania,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,4165.76,I,"Value 
+BE,Bioenergy,428,Latvia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,95,X,Figure from external organization,Europe
+BE,Bioenergy,440,Lithuania,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,4166,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,442,Luxembourg,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,4476.168,I,"Value 
+BE,Bioenergy,442,Luxembourg,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,4476,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,458,Malaysia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,34624.8256,I,"Value 
+BE,Bioenergy,458,Malaysia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,34625,I,"Value 
 imputed by a
 receiving 
 agency",Southeast Asia
-BE,Bioenergy,470,Malta,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,463.2752,I,"Value 
+BE,Bioenergy,470,Malta,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,463,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,528,Netherlands (Kingdom of the),5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,14407.1632,I,"Value 
+BE,Bioenergy,528,Netherlands (Kingdom of the),5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,14407,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,554,New Zealand,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,6.2928,I,"Value 
+BE,Bioenergy,554,New Zealand,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,6,I,"Value 
 imputed by a
 receiving 
 agency",Oceania
-BE,Bioenergy,807,North Macedonia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,8.648,I,"Value 
+BE,Bioenergy,807,North Macedonia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,9,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,578,Norway,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,12345.9952,I,"Value 
+BE,Bioenergy,578,Norway,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,12346,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,604,Peru,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,11982.08,I,"Value 
+BE,Bioenergy,604,Peru,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,11982,I,"Value 
 imputed by a
 receiving 
 agency",South America
-BE,Bioenergy,608,Philippines,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,7600.304,I,"Value 
+BE,Bioenergy,608,Philippines,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,7600,I,"Value 
 imputed by a
 receiving 
 agency",Southeast Asia
-BE,Bioenergy,616,Poland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,40454.1664,I,"Value 
+BE,Bioenergy,616,Poland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,40454,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,620,Portugal,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,106.6832,X,Figure from external organization,Europe
-BE,Bioenergy,410,Republic of Korea,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,25631.5312,I,"Value 
+BE,Bioenergy,620,Portugal,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,107,X,Figure from external organization,Europe
+BE,Bioenergy,410,Republic of Korea,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,25632,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,642,Romania,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,17322.7168,I,"Value 
+BE,Bioenergy,642,Romania,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,17323,I,"Value 
 imputed by a
 receiving 
 agency",Europe
@@ -154,27 +154,158 @@ BE,Bioenergy,703,Slovakia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,55
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,705,Slovenia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,2999.752,I,"Value 
+BE,Bioenergy,705,Slovenia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,3000,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,724,Spain,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,51531.1136,I,"Value 
+BE,Bioenergy,724,Spain,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,51531,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,752,Sweden,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1545.6,X,Figure from external organization,Europe
-BE,Bioenergy,756,Switzerland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0.6256,X,Figure from external organization,Europe
+BE,Bioenergy,752,Sweden,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1546,X,Figure from external organization,Europe
+BE,Bioenergy,756,Switzerland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,1,X,Figure from external organization,Europe
 BE,Bioenergy,764,Thailand,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,62560,X,Figure from external organization,Southeast Asia
-BE,Bioenergy,792,Türkiye,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,3749.1104,I,"Value 
+BE,Bioenergy,792,Türkiye,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,3749,I,"Value 
 imputed by a
 receiving 
 agency",Midde East
-BE,Bioenergy,826,United Kingdom of Great Britain and Northern Ireland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,58585.6,I,"Value 
+BE,Bioenergy,826,United Kingdom of Great Britain and Northern Ireland,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,58586,I,"Value 
 imputed by a
 receiving 
 agency",Europe
-BE,Bioenergy,840,United States of America,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,345636.3088,I,"Value 
+BE,Bioenergy,840,United States of America,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,345636,I,"Value 
 imputed by a
 receiving 
 agency",Noth America
-BE,Bioenergy,858,Uruguay,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,3.68,X,Figure from external organization,South America
+BE,Bioenergy,858,Uruguay,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,4,X,Figure from external organization,South America
+BE,Bioenergy,859,Afghanistan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,860,Algeria,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,861,Angola,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,862,Antigua and Barbuda,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Caribbean
+BE,Bioenergy,863,Armenia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,864,Azerbaijan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,865,Bahamas,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Caribbean
+BE,Bioenergy,866,Bahrain,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,867,Bangladesh,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,868,Barbados,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Caribbean
+BE,Bioenergy,869,Belize,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Central America
+BE,Bioenergy,870,Benin,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,871,Bhutan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,872,Bolivia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,South America
+BE,Bioenergy,873,Bosnia and Herzegovina,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Europe
+BE,Bioenergy,874,Botswana,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,875,Brunei,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Southeast Asia
+BE,Bioenergy,876,Burkina Faso,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,877,Burundi,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,878,Cabo Verde,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,879,Cambodia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Southeast Asia
+BE,Bioenergy,880,Cameroon,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,881,Central African Republic,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,882,Chad,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,883,Chile,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,South America
+BE,Bioenergy,884,Comoros,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,885,Congo,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,886,Democratic Republic of the Congo,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,887,Costa Rica,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Central America
+BE,Bioenergy,888,Cote d’Ivoire,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,889,Cuba,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Caribbean
+BE,Bioenergy,890,Djibouti,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,891,Dominica,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Caribbean
+BE,Bioenergy,892,Ecuador,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,South America
+BE,Bioenergy,893,Egypt,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,894,El Salvador,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Central America
+BE,Bioenergy,895,Equatorial Guinea,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,896,Eritrea,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,897,Eswatini,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,898,Ethiopia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,899,Fiji,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Oceania
+BE,Bioenergy,900,Gabon,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,901,Gambia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,902,Ghana,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,903,Grenada,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Caribbean
+BE,Bioenergy,904,Guatemala,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Central America
+BE,Bioenergy,905,Guinea,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,906,Guinea-Bissau,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,907,Guyana,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,South America
+BE,Bioenergy,908,Haiti,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Caribbean
+BE,Bioenergy,909,Honduras,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Central America
+BE,Bioenergy,910,Iran,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,911,Iraq,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,912,Israel,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,913,Jamaica,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Caribbean
+BE,Bioenergy,914,Jordan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,916,Kenya,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,917,Kiribati,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Oceania
+BE,Bioenergy,918,Kuwait,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,919,Kyrgyzstan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Central Asia
+BE,Bioenergy,920,Laos,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Southeast Asia
+BE,Bioenergy,921,Lebanon,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,922,Lesotho,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,923,Liberia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,924,Liechtenstein,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Europe
+BE,Bioenergy,925,Madagascar,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,926,Malawi,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,927,Maldives,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,South Asia
+BE,Bioenergy,928,Mali,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,929,Mauritania,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,930,Mauritius,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,931,Micronesia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Oceania
+BE,Bioenergy,932,Monaco,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Europe
+BE,Bioenergy,933,Moldova,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Europe
+BE,Bioenergy,934,Mongolia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,935,Montenegro,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Europe
+BE,Bioenergy,936,Morocco,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,937,Mozambique,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,938,Myanmar,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Southeast Asia
+BE,Bioenergy,939,Namibia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,940,Nauru,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Oceania
+BE,Bioenergy,941,Nepal,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,South Asia
+BE,Bioenergy,942,Nicaragua,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Central America
+BE,Bioenergy,943,Niger,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,944,Nigeria,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,945,North Korea,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,East Asia
+BE,Bioenergy,946,Oman,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,947,Pakistan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,South Asia
+BE,Bioenergy,948,Palau,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Oceania
+BE,Bioenergy,949,Panama,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Central America
+BE,Bioenergy,950,Papua New Guinea,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Oceania
+BE,Bioenergy,951,Paraguay,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,South America
+BE,Bioenergy,952,Qatar,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,953,Rwanda,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,954,Saint Kitts and Nevis,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Caribbean
+BE,Bioenergy,955,Saint Lucia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Caribbean
+BE,Bioenergy,956,Saint Vincent and the Grenadines,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Caribbean
+BE,Bioenergy,957,Samoa,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Oceania
+BE,Bioenergy,958,San Marino,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Europe
+BE,Bioenergy,959,Sao Tome and Principe,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,960,Senegal,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,961,Serbia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Europe
+BE,Bioenergy,962,Seychelles,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,963,Sierra Leone,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,964,Singapore,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,965,South Africa,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Southeast Asia
+BE,Bioenergy,966,South Sudan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,967,Sri Lanka,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,968,Sudan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,South Asia
+BE,Bioenergy,969,Suriname,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,970,Syria,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,South America
+BE,Bioenergy,971,Tajikistan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,972,Tanzania,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Central Asia
+BE,Bioenergy,973,Timor-Leste,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,974,Togo,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Southeast Asia
+BE,Bioenergy,975,Tonga,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,976,Trinidad and Tobago,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Caribbean
+BE,Bioenergy,977,Tunisia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Central Asia
+BE,Bioenergy,978,Turkmenistan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Oceania
+BE,Bioenergy,979,Tuvalu,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,980,Uganda,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Europe
+BE,Bioenergy,981,Ukraine,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,982,United Arab Emirates,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Central Asia
+BE,Bioenergy,983,Uzbekistan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Oceania
+BE,Bioenergy,984,Vanuatu,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Europe
+BE,Bioenergy,985,Vatican City,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,South America
+BE,Bioenergy,986,Venezuela,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Southeast Asia
+BE,Bioenergy,987,Vietnam,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Middle East
+BE,Bioenergy,988,Yemen,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,989,Zambia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
+BE,Bioenergy,990,Zimbabwe,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
