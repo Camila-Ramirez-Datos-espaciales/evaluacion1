@@ -282,8 +282,6 @@ BE,Bioenergy,960,Senegal,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X
 BE,Bioenergy,961,Serbia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Europe
 BE,Bioenergy,962,Seychelles,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
 BE,Bioenergy,963,Sierra Leone,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
-BE,Bioenergy,964,Singapore,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
-BE,Bioenergy,965,South Africa,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Southeast Asia
 BE,Bioenergy,966,South Sudan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
 BE,Bioenergy,967,Sri Lanka,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
 BE,Bioenergy,968,Sudan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,South Asia
@@ -309,4 +307,44 @@ BE,Bioenergy,987,Vietnam,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X
 BE,Bioenergy,988,Yemen,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
 BE,Bioenergy,989,Zambia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
 BE,Bioenergy,990,Zimbabwe,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Africa
-BE,Bioenergy,991,Mexico,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,,Figure from external organization,Noth America
+BE,Bioenergy,991,Mexico,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Noth America
+BE,Bioenergy,992,China,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,993,India,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,994,Japan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,995,South Korea,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,996,North Korea,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,997,Thailand,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,998,Malaysia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,999,Indonesia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1000,Philippines,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1001,Vietnam,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1002,Nepal,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1003,Bhutan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1004,Maldives,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1005,Sri Lanka,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1006,Bangladesh,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1007,Pakistan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1008,Afghanistan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1009,Kazakhstan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1010,Kyrgyzstan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1011,Tajikistan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1012,Turkmenistan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1013,Uzbekistan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1014,Iraq,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1015,Iran,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1016,Israel,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1017,Jordan,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1018,Lebanon,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1019,Syria,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1020,Oman,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1021,Yemen,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1022,Bahrain,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1023,Qatar,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1024,United Arab Emirates,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1025,Saudi Arabia,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1026,Kuwait,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1027,Laos,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1028,Myanmar,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1029,Brunei,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1030,Timor-Leste,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
+BE,Bioenergy,1031,Singapore,5851,Energy consumption,6521,Biodiesel,2023,2023,TJ,0,X,Figure from external organization,Asia
